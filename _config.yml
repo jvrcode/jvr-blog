@@ -30,7 +30,7 @@ twitter_username: jvrcode
 github_username: jvrcode
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
